@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EnumTasks
+namespace ConsoleApp46
 {
     // Задача 1
     enum Month
